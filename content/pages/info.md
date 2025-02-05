@@ -118,7 +118,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [2023sha01099@iacademy.edu.ph](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
