@@ -14,16 +14,17 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ##### A committed and skilled software developer with hands-on experience
-      in C#, C++, Java, and Python programming. Adept at identifying and
-      debugging coding errors, producing high-quality outputs, and maintaining a
-      secure digital environment. Additionally, experienced in web development,
+      ##### Carolyne Denise Go Vicencio
+
+
+      A committed and skilled software developer with hands-on experience in C#,
+      C++, Java, and Python programming. Adept at identifying and debugging
+      coding errors, producing high-quality outputs, and maintaining a secure
+      digital environment. Additionally, experienced in web development,
       particularly with PHP and HTML, with a strong understanding of creating
       dynamic and responsive websites. Seeking a challenging role where I can
       leverage my technical expertise, problem-solving abilities, and passion
       for development to contribute effectively to the programming industry.
-
-
 
     media:
       type: ImageBlock
