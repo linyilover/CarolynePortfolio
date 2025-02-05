@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-05 212100.png
-  altText: Project thumbnail image
+  altText: 'Our Planet, Our Future'
 media:
   type: ImageBlock
   url: /images/bg2.jpg
