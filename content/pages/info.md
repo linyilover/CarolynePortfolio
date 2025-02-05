@@ -79,7 +79,7 @@ sections:
       - type: Label
         label: PYTHON
       - type: Label
-        label: Netlify
+        label: PHP
       - type: Label
         label: Pancakes
       - type: Label
