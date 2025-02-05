@@ -28,7 +28,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/1X1_VICENCIO.jpg
       altText: Hero image
     styles:
       self:
