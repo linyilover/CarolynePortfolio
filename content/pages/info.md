@@ -89,6 +89,9 @@ sections:
       - type: Label
         label: NETLIFY
         url: ''
+      - type: Label
+        label: VISUAL STUDIOS
+        url: ''
   - type: DividerSection
     styles:
       self:
