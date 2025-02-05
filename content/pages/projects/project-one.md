@@ -26,5 +26,5 @@ The site features sections on Carolyne’s background, including her passion for
 
 Overall, the website is simple, clean, and functional, demonstrating the basic web development skills learned through the project. It also utilizes Bootstrap to create a responsive, user-friendly layout.
 
-
+[About Me - Index](https://aboutcarolyne.netlify.app/)
 
