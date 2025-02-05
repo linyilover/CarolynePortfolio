@@ -7,10 +7,7 @@ client: ''
 description: >-
   This website serves as an informative platform dedicated to the global
   Environmental Movement, a critical initiative that seeks to address some of
-  the most pressing environmental challenges facing our world today. The site
-  covers a broad range of topics related to environmental sustainability,
-  including pollution, deforestation, climate change, and the loss of
-  biodiversity. 
+  the most pressing environmental challenges facing our world today.
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-05 212100.png
