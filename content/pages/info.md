@@ -90,6 +90,9 @@ sections:
         label: NETLIFY
         url: ''
       - type: Label
+        label: PYCHARM
+        url: ''
+      - type: Label
         label: VISUAL STUDIOS
         url: ''
   - type: DividerSection
