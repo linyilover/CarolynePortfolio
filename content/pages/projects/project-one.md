@@ -11,7 +11,7 @@ description: >-
   and achievements. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/Screenshot 2025-02-05 220247.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
