@@ -77,7 +77,7 @@ sections:
       - type: Label
         label: JAVA
       - type: Label
-        label: Next.js
+        label: PYTHON
       - type: Label
         label: Netlify
       - type: Label
