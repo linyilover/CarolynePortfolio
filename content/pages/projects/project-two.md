@@ -17,7 +17,7 @@ featuredImage:
   altText: 'Our Planet, Our Future'
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2025-02-05 212100.png
   altText: Project image
 ---
 The website **"Our Planet, Our Future"** is a platform dedicated to the global environmental movement. It aims to inspire individuals and communities to take meaningful action toward protecting the planet by addressing urgent environmental issues such as pollution, deforestation, climate change, and biodiversity loss. The site highlights the movement’s mission to promote sustainable living and raise awareness about critical ecological challenges, with a particular focus on the Philippines.
