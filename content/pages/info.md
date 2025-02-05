@@ -83,7 +83,7 @@ sections:
       - type: Label
         label: MY SQL
       - type: Label
-        label: C++
+        label: HTML
       - type: Label
         label: Swift
   - type: DividerSection
