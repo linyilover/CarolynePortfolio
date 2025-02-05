@@ -86,6 +86,9 @@ sections:
         label: HTML
       - type: Label
         label: GITHUB
+      - type: Label
+        label: NETLIFY
+        url: ''
   - type: DividerSection
     styles:
       self:
