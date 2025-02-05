@@ -85,7 +85,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Swift
+        label: GITHUB
   - type: DividerSection
     styles:
       self:
