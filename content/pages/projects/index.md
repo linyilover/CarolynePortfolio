@@ -31,7 +31,7 @@ styles:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "INTERESTED IN MY WORK... \U0001F4AC"
     colors: colors-f
     form:
       type: FormBlock
