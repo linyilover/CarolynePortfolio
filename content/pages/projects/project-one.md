@@ -8,9 +8,7 @@ description: >-
   The website "About Carolyne" serves as a personal introduction page created as
   a first project in HTML using Bootstrap. It introduces Carolyne Vicencio, a
   Grade 11 Software Development student, showcasing her personality, interests,
-  and achievements. Overall, the website is simple, clean, and functional,
-  demonstrating the basic web development skills learned through the project. It
-  also utilizes Bootstrap to create a responsive, user-friendly layout.
+  and achievements. 
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
