@@ -98,6 +98,9 @@ sections:
       - type: Label
         label: NOTEPAD++
         url: ''
+      - type: Label
+        label: APACHE NETBEANS
+        url: ''
   - type: DividerSection
     styles:
       self:
