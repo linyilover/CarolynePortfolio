@@ -70,7 +70,7 @@
             "email": "2023sha01099@iacademy.edu.ph",
             "emailAltText": "Email Address",
             "address": "Mckinley Park Residences, 31st Street, Bonifacio Global City",
-            "addressAltText": "My address"
+            "addressAltText": "Address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
