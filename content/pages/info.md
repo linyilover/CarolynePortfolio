@@ -29,7 +29,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/1X1_VICENCIO.jpg
-      altText: Hero image
+      altText: Carolyne Denise Go Vicencio
     styles:
       self:
         height: auto
