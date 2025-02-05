@@ -17,6 +17,10 @@ media:
   type: ImageBlock
   url: /images/Screenshot 2025-02-05 220247.png
   altText: Project image
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 ---
 The site features sections on Carolyne’s background, including her passion for fencing, where she highlights her experience as an athlete and some notable achievements. There’s also a section dedicated to her likes and dislikes, giving visitors a glimpse into her personal preferences. Additionally, the website includes contact information, making it easy for visitors to reach out.
 
