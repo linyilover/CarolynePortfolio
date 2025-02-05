@@ -95,6 +95,9 @@ sections:
       - type: Label
         label: VISUAL STUDIOS
         url: ''
+      - type: Label
+        label: NOTEPAD++
+        url: ''
   - type: DividerSection
     styles:
       self:
