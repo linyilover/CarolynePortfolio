@@ -81,7 +81,7 @@ sections:
       - type: Label
         label: PHP
       - type: Label
-        label: Pancakes
+        label: MY SQL
       - type: Label
         label: C++
       - type: Label
