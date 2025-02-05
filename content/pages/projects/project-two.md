@@ -5,9 +5,12 @@ colors: colors-a
 date: '2024-11-11'
 client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  This website serves as an informative platform dedicated to the global
+  Environmental Movement, a critical initiative that seeks to address some of
+  the most pressing environmental challenges facing our world today. The site
+  covers a broad range of topics related to environmental sustainability,
+  including pollution, deforestation, climate change, and the loss of
+  biodiversity. 
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-02-05 212100.png
