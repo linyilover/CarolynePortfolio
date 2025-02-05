@@ -14,12 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Carolyne Denise Go Vicencio
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am pleased to share with you the work I have dedicated myself to over the past few years. Throughout my senior high school years, I have developed a series of websites using Bootstrap and my own unique designs. This portfolio showcases the skills, creativity, and commitment that I have invested in each project.
     styles:
       self:
         height: auto
